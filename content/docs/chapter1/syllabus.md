@@ -1,12 +1,15 @@
 ---
-title: Provisioning a server
-linktitle: Provisioning a server
+title: Starting with Terraform
+linktitle: Starting with Terraform
 type: book
 date: '2022-08-05T00:00:00+01:00'
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 1
 ---
+
+## Getting started
+This is a web app, so we need it to be in a client server architecture. For that, we need a server first of all. 
 
 ## The problem with the manual way
 

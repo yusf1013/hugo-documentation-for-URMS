@@ -32,3 +32,5 @@ During course enrollment and result publication, the website may face high traff
 4. Monitoring the Kubernetes cluster with Prometheus and Grafana.
 5. Setting up Grafana alerts on critical metrics to automatically notify on slack.
 6. Rolling out updates without downtime. 
+
+[The website is accessible here](http://52.234.178.79/)

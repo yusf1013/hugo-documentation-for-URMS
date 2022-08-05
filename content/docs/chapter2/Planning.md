@@ -39,3 +39,6 @@ Any project is bound to fail without proper planning. For this project, we have 
 3. Automation pipeline for documentation
 
 #### Database design
+For this project, we have used MongoDB Atlas, a managed NoSQL service. In this case, Mongo is expected to be faster than traditional SQL because of the benefits of denormalization. Apart from that, Atlas is a managed service. It will automatically scale resources based on cost. 
+Here is our designed database schema  -
+![img](/i6.png)
